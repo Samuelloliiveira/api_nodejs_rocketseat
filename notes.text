@@ -1,0 +1,7 @@
+* JWT(JSON Web Token) - define como transmitir e armazenar objetos 
+JSON de forma compacta e segura entre diferentes aplicações.
+    - O pacote oficial do node para JWT é o jsonwebtoken
+    - Você pode gerar um hash MD5 aleatório na internet 
+
+* Middlewares - Vai interceptar a requisição entre o controle e a rota,
+ele recebe req e res e verifica se está valido para receber a resposta
