@@ -5,3 +5,8 @@ JSON de forma compacta e segura entre diferentes aplicações.
 
 * Middlewares - Vai interceptar a requisição entre o controle e a rota,
 ele recebe req e res e verifica se está valido para receber a resposta
+
+* fs (File system) - É um módulo node que nos permite interagir com o 
+sistema de arquivos de uma forma modelada
+
+* path - É um módulo node que permite trabalhar com caminho de pastas

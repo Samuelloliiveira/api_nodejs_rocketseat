@@ -1,5 +1,5 @@
 const jwt = require('jsonwebtoken')
-const authConfig = require('../config/auth.json')
+const authConfig = require('../../config/auth.json')
 
 //next é chamado somente se o usuário estiver pronto para ir para o próximo passo
 module.exports = (req, res, next) => {

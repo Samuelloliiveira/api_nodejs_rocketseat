@@ -1,4 +1,4 @@
-const mongoose = require('../database')
+const mongoose = require('../../database')
 //bcrypt é uma biblioteca para encriptação de senhas
 const bcrypt = require('bcryptjs')
 
