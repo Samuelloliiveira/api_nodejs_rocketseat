@@ -28,5 +28,7 @@ As dependencias usadas: <br>
 
 ##
 
-Usamos o pacote nodemailer-express-handlebars como template de email html
+Usamos o pacote nodemailer-express-handlebars como template de email html <br><br>
 
+Para iniciar: npm install ou yarn install <br>
+Para rodar o servidor: npm dev ou yarn dev
